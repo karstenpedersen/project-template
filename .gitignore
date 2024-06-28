@@ -1,0 +1,9 @@
+### direnv ###
+.direnv/
+# .envrc
+
+### pre-commit ###
+.pre-commit-config.yaml
+
+### nix ###
+result
